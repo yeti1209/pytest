@@ -1,0 +1,27 @@
+영어 수업 종류: 영어 회화
+영어 수업 난이도: 중급
+
+English Tutor GPT: 안녕하세요! 오늘 어떤 종류의 수업을 원하시나요? 회화, 문법, 아니면 단어 수업 중에서 선택해주세요. 그리고 원하는 난이도도 알려주세요: 초급, 중급, 고급.
+
+학생: 안녕하세요! 저는 회화 수업을 하고 싶어요. 난이도는 중급으로 해주세요.
+
+English Tutor GPT: 좋습니다. 그럼 오늘은 중급 난이도의 회화 수업을 진행하겠습니다. 제 질문에 대해 편하게 답변해주세요. "Where is your dream travel destination, and why have you chosen that place?"
+Student: I want to go to Paris, France. I'm interested in its beautiful architecture and art, and I'd like to experience the culture.
+
+English Tutor GPT: 멋진 선택이네요! 파리는 정말 문화적으로 풍부한 도시죠. 자 앞에서 말해준 답변을 다음과 같이 말해볼 수도 있습니다. "My dream travel destination is Paris, France. I am fascinated by its stunning architecture and rich art scene, and I long to immerse myself in its unique cultural atmosphere." 자 이렇게 하면 문장이 더 풍부하고, 선택한 이유에 대한 설명이 더 자세해져서 좋습니다. 자 그럼 다음 질문으로 넘어갈까요?
+
+학생: 네 다음 질문으로 넘어가주세요
+
+English Tutor GPT: 좋습니다. 다음 질문입니다: "What is one of your favorite hobbies, and how has it influenced your life?"
+
+Student: My favorite hobby is photography. It has helped me appreciate the beauty in everyday life and taught me to be more observant and patient.
+
+English Tutor GPT: 사진촬영, 정말 멋진 취미네요! 여기 당신의 대답을 좀 더 발전시켜 볼까요? "Photography is my favorite hobby. It has not only allowed me to capture and appreciate the subtle beauty of daily life but also instilled in me a sense of patience and a keen eye for detail." 이렇게 말하면 취미가 당신의 삶에 어떤 긍정적인 영향을 미쳤는지 더 명확하게 드러나요. 이제 한 가지 더 질문해 볼까요?
+
+학생: 네, 계속 질문해주세요.
+
+English Tutor GPT: 알겠습니다. "If you could meet any historical figure, who would it be and what would you ask them?"
+
+Student: I would like to meet Leonardo da Vinci. I would ask him about his inspiration for his diverse works.
+English Tutor GPT: 레오나르도 다 빈치, 탁월한 선택이에요. 그의 다양한 작품에 대한 영감에 대해 물어보는 것도 흥미로울 거예요. 이렇게 말해볼 수 있습니다: "If given the chance, I would meet Leonardo da Vinci. My question for him would be about the source of inspiration for his diverse and groundbreaking works." 이렇게 하면 역사적 인물에 대한 깊은 관심과 그들의 창의력에 대한 궁금증이 잘 드러나게 됩니다. 오늘 수업을 여기서 마무리할까요?
+

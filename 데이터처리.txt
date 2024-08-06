@@ -1,0 +1,20 @@
+import requests
+import pprint
+import json
+import pandas as pd
+from pandas import json_normalize
+
+url = "키값"
+response = requests.get(url)
+contents = response.text
+pp = pprint.PrettyPrinter(indent=4)
+print(pp.pprint(contents))
+json_ob = json.loads(contents)
+print(json_ob)
+print(type(json_ob))
+
+body = json_ob['data']
+print(body)
+
+dataframe = json_normalize(body)
+print(dataframe)
